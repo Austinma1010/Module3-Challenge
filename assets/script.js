@@ -25,7 +25,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
         for (i = 0; i < pwLength; i++) {
             let char = Math.floor(Math.random() * randString.length + 1);
             passWord += randString.charAt(char);
-            console.log(passWord);
+            
 
         }
         return passWord;
@@ -35,7 +35,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
         for (i = 0; i < pwLength; i++) {
             let char = Math.floor(Math.random() * randString.length + 1);
             passWord += randString.charAt(char);
-            console.log(passWord);
+            
 
         }
         return passWord;
@@ -45,7 +45,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
         for (i = 0; i < pwLength; i++) {
             let char = Math.floor(Math.random() * randString.length + 1);
             passWord += randString.charAt(char);
-            console.log(passWord);
+            
 
         }
         return passWord;
@@ -55,7 +55,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -65,7 +65,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -75,7 +75,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -85,7 +85,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -95,7 +95,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -105,7 +105,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -115,7 +115,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -125,7 +125,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -135,7 +135,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -145,7 +145,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -155,7 +155,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -165,7 +165,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
@@ -175,7 +175,7 @@ var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
     for (i = 0; i < pwLength; i++) {
         let char = Math.floor(Math.random() * randString.length + 1);
         passWord += randString.charAt(char);
-        console.log(passWord);
+        
 
     }
     return passWord;
