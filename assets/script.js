@@ -1,15 +1,15 @@
-// Assignment code here
+// Creates variable that contain the different characters used in password creation
 var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var lowerCase = "abcdefghijklmnopqrstuvwxyz";
 var numbers = "1234567890";
 var special = "!@#$%^&*()-_=+[]{}|;:'\",.<>?/`~";
-
+// this function will generate a password in accordance with the users inputs
  function generatePassword() {
-    var upper = window.confirm("Would you like uppercase letters? (Press 'OK' for yes and 'cancel' for no");
+    var upper = window.confirm("Would you like uppercase letters? (Press 'OK' for yes and 'cancel' for no"); // Prompts the user to choose the character types used in password
     var lower = window.confirm("Would you like lowercase letters? (Press 'OK' for yes and 'cancel' for no)");
     var num = window.confirm("Would you like numbers? (Press 'OK' for yes and 'cancel' for no)");
     var specialChar = window.confirm("Would you like special characters? (Press 'OK' for yes and 'cancel' for no)");
-    var pwLength = window.prompt("How long would you like your password to be? (Must be at least 8 characters and can't excede 128)");
+    var pwLength = window.prompt("How long would you like your password to be? (Must be at least 8 characters and can't excede 128)"); // lets user choose the length of their password
     // This if-else statement ensures the user only enters an allowed length
     if (pwLength < 8) {
         window.confirm("Password is too short. Please try again");
